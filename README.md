@@ -5,3 +5,4 @@
 2. Pascal
 3. Lua
 4. Julia
+5. Haskell
