@@ -6,3 +6,4 @@
 3. Lua
 4. Julia
 5. Haskell
+6. Clojure
