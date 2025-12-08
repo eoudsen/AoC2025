@@ -8,3 +8,4 @@
 5. Haskell
 6. Clojure
 7. Nim (And failed APL)
+8. Ruby
