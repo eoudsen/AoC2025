@@ -9,3 +9,4 @@
 6. Clojure
 7. Nim (And failed APL)
 8. Ruby
+9. Rust
