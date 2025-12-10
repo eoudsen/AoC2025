@@ -10,3 +10,4 @@
 7. Nim (And failed APL)
 8. Ruby
 9. Rust
+10. Python
